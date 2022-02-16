@@ -1,0 +1,1 @@
+const salary: number = 7500;
